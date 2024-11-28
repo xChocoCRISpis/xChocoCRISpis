@@ -1,4 +1,6 @@
-<header>## Hola, soy Christopher Hernández</header>
+<header style: color: #08f5f5;
+  >## Hola, soy Christopher Hernández
+</header>
 
 <!--
 **xChocoCRISpis/xChocoCRISpis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
